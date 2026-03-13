@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://xggm.top/logo.png"/>
+![XGGM](https://xggm.top/logo.png)
 
 # 👋 Hi there, I'm XG2020 (X.G 孤梦)
 
