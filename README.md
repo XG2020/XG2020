@@ -1,6 +1,6 @@
 <div align="center">
   
- <img src="./logo.png"  height=80%/>
+ <img src="./logo.png"  height=50%/>
   
 # 👋 Hi there, I'm X.G
 
