@@ -39,5 +39,5 @@
   
   <br/>
   
-  <i>Let's build something amazing together!</i>
+  <i>Gentle with the wind, at ease wherever you go......</i>
 </div>
