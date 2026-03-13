@@ -1,6 +1,6 @@
 <div align="center">
   
- <img src="./logo.png"  height=50%/>
+ <img src="./logo.png"  height="50%" alt="https://xggm.top"/>
   
 # 👋 Hi there, I'm X.G
 
