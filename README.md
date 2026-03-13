@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FjMzI1YjI4NjI5N2M4YzEwYzEwYzEwYzEwYzEwYzEwYzEwYzEwYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o7TKSjRrfIPjeiVyM/giphy.gif" width="100%" height="200"/>
+<img src="https://xggm.top/logo.png" width="100%" height="200"/>
 
 # 👋 Hi there, I'm XG2020 (X.G 孤梦)
 
@@ -28,18 +28,6 @@ I'm a passionate developer focused on building intelligent tools and plugins. My
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,docker,git,github,vscode,postgres,redis,fastapi&theme=dark" />
 </div>
-
-## 🌟 Featured Projects
-
-### [Nekro Agent Plugins](https://github.com/XG2020/nekro_agent_plugins)
-A collection of powerful plugins for the Nekro Agent ecosystem:
-
-| Plugin | Description | Tech Stack |
-|:---:|:---|:---:|
-| **[nekro_picsearcher](https://github.com/XG2020/nekro_picsearcher)** | Multi-engine reverse image search tool (Saucenao, Google, etc.) | `Python` `AsyncIO` `BeautifulSoup` |
-| **[nekro_html2md](https://github.com/XG2020/nekro_html2md)** | Smart webpage to Markdown converter with anti-crawler bypass | `Python` `Readability` `Markdownify` |
-| **[emo_plugin](https://github.com/XG2020/emo_plugin)** | Random meme/emoji searcher with high entropy selection | `Python` `HTTPX` |
-| **[festival_greeting](https://github.com/XG2020/festival_greeting)** | Automated festival greetings with blacklist/whitelist modes | `Python` `Scheduler` |
 
 ## 📊 GitHub Activity
 
