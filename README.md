@@ -1,6 +1,6 @@
 <div align="center">
   
- <a href="https://xggm.top"><img src="./logo.png" width="100%" height="200" alt="xggm"/></a>
+ <a href="https://xggm.top"><img src="./logo.png"  height="200" alt="xggm"/></a>
   
 # 👋 Hi there, I'm X.G
 
