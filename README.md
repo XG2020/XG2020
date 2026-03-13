@@ -14,15 +14,6 @@
 
 ---
 
-## 🚀 About Me
-
-I'm a passionate developer focused on building intelligent tools and plugins. My recent work involves enhancing the **Nekro Agent** ecosystem with powerful capabilities like image search, web parsing, and festival greetings.
-
-- 🔭 I’m currently working on **Nekro Agent Plugins**
-- 🌱 I’m currently learning **Advanced AI Agent Patterns & Multi-modal Interactions**
-- 💬 Ask me about **Python, Plugin Development, Web Scraping**
-- 📫 Reach me at: **tencenot@vip.qq.com**
-
 ## 🛠️ Tech Stack
 
 <div align="center">
