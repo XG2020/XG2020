@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://xggm.top/logo.png" width="100%" height="200"/>
+<img src="http://xggm.top/logo.png" width="100%" height="200"/>
 
 # 👋 Hi there, I'm XG2020 (X.G 孤梦)
 
