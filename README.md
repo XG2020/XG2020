@@ -1,6 +1,14 @@
 <div align="center">
 
-<img src="https://xggm.top/logo.svg" width="100%" height="200"/>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="Capa_1" x="0px" y="0px" width="50px" height="50px" viewBox="0 0 50 50">
+         <g fill="var(--main)">
+              <polygon class="st0" fill="#636363" points="44,43.1 27.1,25 44,6.9 47.1,6.9 50,4.4 35.5,4.4 35.5,6.9 39.7,6.9 25,22.8 10.2,6.9 14.4,6.9                                   14.4,4.4 0,4.4 2.9,6.9 6,6.9 22.9,25 6,43.1 2.9,43.1 0,45.6 14.4,45.6 14.4,43.1 10.2,43.1 25,27.2 39.7,43.1 35.5,43.1                                   35.5,45.6 50,45.6 47.1,43.1 "/>
+               <circle class="st1" fill="#FF0000" cx="25" cy="25" r="4.2">
+                    <animate attributeName="fill" values="#FF3939;#FF0000;#6D0000;#FF0000;#FF5C5C" dur="5s" begin="0s" repeatCount="indefinite"/>
+                </circle>
+                <polygon points="39.5,25.9 32.8,38.9 16.7,38.9 8.6,25 16.7,11 32.8,11 39.5,22.3 41.7,22.3 33.9,9.1 15.6,9.1 6.3,25 15.6,40.9                                   33.9,40.9 41.8,25.9 48.2,25.9 48.2,24.1 24.9,23.9 24.9,27.9 27.2,25.9 "/>
+           </g>
+</svg>
 
 # 👋 Hi there, I'm XG2020 (X.G 孤梦)
 
